@@ -5,7 +5,7 @@
 	//TODO: Вставить содержимое обработчика
 	КлиентскоеПриложение.УстановитьКраткийЗаголовок("");
 	
-	//@skip-check module-unused-local-variable
+	 //@skip-check module-unused-local-variable
 //	МойВозраст = 34;
 
 	//@skip-check module-unused-local-variable
